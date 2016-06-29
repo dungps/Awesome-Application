@@ -1,10 +1,13 @@
 # Awesome Application
 
-- [Sublime Text 3](https://www.sublimetext.com/)
-  - [Package Control](https://packagecontrol.io/)
-  - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
-  - [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete)
+- [Text Editor](#text-editor)
+  - [Sublime](#sublime)
 
 
-- [Git](https://git-scm.com/)
-  - [TortoiseGit](https://tortoisegit.org/)
+## Text Editor
+
+### Sublime
+
+- [Package Control](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
+- [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extend Sublime autocompletion to find matches in all open files of the current window
+- [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
