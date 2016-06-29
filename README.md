@@ -6,8 +6,8 @@
   - [Sublime](#sublime)
 
 - [Git & SVN](#git--svn)
-	- [Git](#git)
-	- [SVN](#svn)
+  - [Git](#git)
+  - [SVN](#svn)
 
 -
 
