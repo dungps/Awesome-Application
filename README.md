@@ -5,7 +5,7 @@
 - [Text Editor](#text-editor)
   - [Sublime](#sublime)
 
-- [Git & SVN](#git-svn)
+- [Git & SVN](#git--svn)
 	- [Git](#git)
 	- [SVN](#svn)
 
